@@ -1,6 +1,6 @@
 {
-  "name": "weex-vue-loader",
-  "version": "0.4.0",
+  "name": "js-vue-loader",
+  "version": "0.1.0",
   "description": "Vue.js component loader for Webpack",
   "main": "index.js",
   "repository": {
@@ -16,7 +16,7 @@
     "index.js",
     "lib"
   ],
-  "author": "Sjoerd Visscher",
+  "author": "david.wu",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vuejs/vue-loader/issues"
